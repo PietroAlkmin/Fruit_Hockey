@@ -2,7 +2,7 @@
 
 ## 1️⃣ Introdução  
 
-**Fruit Hockey** é um jogo inspirado no clássico **Pong (1972)**, trazendo uma abordagem criativa e dinâmica baseada no **Air Hockey**. Nossa proposta mantém os principais elementos competitivos e estratégicos do **Pong**, mas adiciona um **tema divertido e diferenciado**, onde os tacos são substituídos por **frutas** e o disco por **sementes dessas frutas**.  
+**Fruit Hockey** é um jogo inspirado no clássico **Pong (1972)**, trazendo uma abordagem criativa e dinâmica baseada no **Air Hockey**. Nossa proposta mantém os principais elementos competitivos e estratégicos do **Pong**, mas adiciona um **tema divertido e diferenciado**, onde os tacos são substituídos por **frutas** e o disco por **sementes dessas frutas**. Durante o desenvolvimento, enfrentamos o desafio de criar um **design visual que representasse bem a ideia**, pois **somos iniciantes em desenho e temos experiência mínima com design**. Mesmo assim, buscamos soluções criativas e utilizamos técnicas simples, como **pixel art**, para trazer um visual único ao jogo.  
 
 Nosso objetivo é reinventar o Pong, mantendo sua essência simples e viciante, mas trazendo novas mecânicas que aumentam o dinamismo da partida. 
 
