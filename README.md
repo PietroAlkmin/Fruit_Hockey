@@ -1,4 +1,4 @@
-# 🎮 Relatório - Fruit Hockey
+# 🎮 Relatório - Fruit Hockey (Pietro Alkmin e Rafael Ryu Tati Nakahara)
 
 ## 1️⃣ Introdução  
 
